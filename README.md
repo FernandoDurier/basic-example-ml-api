@@ -1,4 +1,4 @@
-# Basic Example ML APPI
+# Basic Example ML API
 
 1. First runt the model.py to train and save a model artifact for the first time.
 2. Run server to host your in-code model artifact as a RESTful API
